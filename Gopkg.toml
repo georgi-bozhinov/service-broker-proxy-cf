@@ -34,7 +34,7 @@
   branch = "master"
 
 [[constraint]]
-  name = "github.com/Peripli/service-broker-proxy"
+  name = "github.com/georgi-bozhinov/service-broker-proxy"
   version = "=0.3.0"
 
 [[constraint]]
