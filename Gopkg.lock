@@ -358,12 +358,12 @@
   version = "v1.2.0"
 
 [[projects]]
-  digest = "1:68ea4e23713989dc20b1bded5d9da2c5f9be14ff9885beef481848edd18c26cb"
+  digest = "1:1b753ec16506f5864d26a28b43703c58831255059644351bbcb019b843950900"
   name = "github.com/spf13/jwalterweatherman"
   packages = ["."]
   pruneopts = "UT"
-  revision = "4a4406e478ca629068e7768fc33f3f044173c0a6"
-  version = "v1.0.0"
+  revision = "94f6ae3ed3bceceafa716478c5fbf8d29ca601a1"
+  version = "v1.1.0"
 
 [[projects]]
   digest = "1:9424f440bba8f7508b69414634aef3b2b3a877e522d8a4624692412805407bb7"
@@ -406,16 +406,16 @@
   revision = "65a9db5fad5105a89e17f38adcc9878685be6d78"
 
 [[projects]]
-  digest = "1:ea8da5f44f5e15bb589cca1bd9b85ceb9c05257e83824a725fb0243665e3ce1c"
+  digest = "1:b70c951ba6fdeecfbd50dabe95aa5e1b973866ae9abbece46ad60348112214f2"
   name = "github.com/tidwall/sjson"
   packages = ["."]
   pruneopts = "UT"
-  revision = "c943cc8c8d751d9b33444adf78ae04c2fc8be754"
-  version = "v1.0.3"
+  revision = "25fb082a20e29e83fb7b7ef5f5919166aad1f084"
+  version = "v1.0.4"
 
 [[projects]]
   branch = "master"
-  digest = "1:fb961be99914b3b93d599cabeaec91736f662e3f706b894668fcd23c0d9aafd7"
+  digest = "1:e33d5efebca6ca5a9bb293b80e8cbd26488e1f9c0fa965b5b0de4b65c2c55e87"
   name = "golang.org/x/crypto"
   packages = [
     "ed25519",
@@ -424,7 +424,7 @@
     "ssh/terminal",
   ]
   pruneopts = "UT"
-  revision = "7f87c0fbb88b590338857bcb720678c2583d4dea"
+  revision = "8dd112bcdc25174059e45e07517d9fc663123347"
 
 [[projects]]
   branch = "master"
@@ -438,7 +438,7 @@
     "html/charset",
   ]
   pruneopts = "UT"
-  revision = "312bce6e941fc7e152b630a8643ea239afc12ddd"
+  revision = "16b79f2e4e95ea23b2bf9903c9809ff7b013ce85"
 
 [[projects]]
   branch = "master"
@@ -454,14 +454,14 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:80200f57d482f61334a482a046ddedbad77c04dbec6ab81a4e1b3c6adbdfadef"
+  digest = "1:32f8c7cc78e478c39ce1cbe83dc4d54e4c4eed86197c50ff28fb935e6a32e090"
   name = "golang.org/x/sys"
   packages = [
     "unix",
     "windows",
   ]
   pruneopts = "UT"
-  revision = "775f8194d0f9e65c46913c7be783d3d95a29333c"
+  revision = "30e92a19ae4a77dde818b8c3d41d51e4850cba12"
 
 [[projects]]
   digest = "1:4392fcf42d5cf0e3ff78c96b2acf8223d49e4fdc53eb77c99d2f8dfe4680e006"
