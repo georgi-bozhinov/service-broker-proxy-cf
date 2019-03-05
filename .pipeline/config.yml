@@ -12,7 +12,7 @@ steps:
   pushChangesToRepo:
     branch: 'new-version'
   pollBuilds:
-    timeoutSeconds: 6
+    timeoutSeconds: 5
     pollIntervalSeconds: 5
     branch: 'new-version'
   buildDepProjects:
