@@ -11,10 +11,10 @@ steps:
   pushChangesToRepo:
     branch: 'new-version'
   pollBuilds:
-    timeoutSeconds: 60
+    timeoutSeconds: 30
     branch: 'new-version'
   buildDepProjects:
-    projects: []
+    projects: ['release-cf-broker-proxy-sap']
   XMakeBuild:
     buildWithXMake: false
 
