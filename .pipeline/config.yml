@@ -8,10 +8,12 @@ general:
 steps:
   updatePackageRefs:
     deps: ["github.com/georgi-bozhinov/service-broker-proxy"]
+    skipDepRebuild: false
   pushChangesToRepo:
     branch: 'new-version'
   pollBuilds:
-    timeoutSeconds: 30
+    timeoutSeconds: 6
+    pollIntervalSeconds: 5
     branch: 'new-version'
   buildDepProjects:
     projects: ['release-cf-broker-proxy-sap']
