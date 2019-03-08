@@ -35,7 +35,7 @@
 
 [[constraint]]
   name = "github.com/georgi-bozhinov/service-broker-proxy"
-  version = "1.1.1"
+  version = "1.1.2"
 
 [[constraint]]
   name = "github.com/cloudfoundry-community/go-cfenv"
